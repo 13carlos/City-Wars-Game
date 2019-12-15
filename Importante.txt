@@ -1,0 +1,12 @@
+En sistemas de 64bits
+copiar el archivo msvcr100d en:
+
+C:\Windows\SysWOW64
+
+
+para otros sistemas operativos en:
+
+
+C:\Windows\System (Windows 95/98/Me)
+C:\WINNT\System32 (Windows NT/2000)
+C:\Windows\System32 (Windows XP, Vista, 7)
